@@ -72,7 +72,7 @@ Here is the reference for SemanticRT dataset color visualization.
 
 + **Dataset Acknowledgement** 
 
-Our SemanticRT dataset is mainly based on LLVIP as well as other RGBT sources (OSU and INO). They are annotated and adjusted to better fit the MSS task. All data and annotations provided are strictly intended for ***non-commercial research purpose only***. If you are interested in our SemanticRT dataset, we sincerely appreciate your citation of our work and strongly encourage you to cite the source datasets mentioned above.
+Our SemanticRT dataset is mainly based on [LLVIP](https://github.com/bupt-ai-cz/LLVIP) as well as other RGBT sources ([OSU](https://vcipl-okstate.org/pbvs/bench/) and [INO](https://www.ino.ca/en/technologies/video-analytics-dataset/)). They are annotated and adjusted to better fit the MSS task. All data and annotations provided are strictly intended for ***non-commercial research purpose only***. If you are interested in our SemanticRT dataset, we sincerely appreciate your citation of our work and strongly encourage you to cite the source datasets mentioned above.
 
 ------
 
