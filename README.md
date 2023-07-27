@@ -81,7 +81,7 @@ Our SemanticRT dataset is mainly based on [LLVIP](https://github.com/bupt-ai-cz/
 
 ### Installation
 
-The code requires `python>=3.7`, as well as `pytorch>=1.9` and `torchvision>=0.11`. Please follow the instructions [here](https://pytorch.org/get-started/locally/) to install both PyTorch and TorchVision dependencies. Installing both PyTorch and TorchVision with CUDA support is strongly recommended. We also provide the [environment]() `rgbt.yaml` used in this work for reference.
+The code requires `python>=3.7`, as well as `pytorch>=1.9` and `torchvision>=0.11`. Please follow the instructions [here](https://pytorch.org/get-started/locally/) to install both PyTorch and TorchVision dependencies. Installing both PyTorch and TorchVision with CUDA support is strongly recommended. We also provide the [environment](https://github.com/jiwei0921/SemanticRT/blob/main/rgbt.yaml) `rgbt.yaml` used in this work for reference.
 
 In this repo, we provide the ECM code for three benchmark datasets, including MFNet, PST900, and SemanticRT. In the following, we take ECM on SemanticRT dataset as an example. 
 
