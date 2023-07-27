@@ -86,7 +86,7 @@ The authors promise that the source code and SemanticRT dataset will be made pub
 
 + **Code Acknowledgement** 
 
-This code repository was originally built from [EGFNet](https://github.com/shaohuadong2021/egfnet). It was modified and extended to support our multispectral segmentation setting.
+This code repository was originally built from [EGFNet](https://github.com/shaohuadong2021/egfnet). It was modified and extended to support our network design and dataset setup.
 
 ------
 
