@@ -1,5 +1,13 @@
 # SemanticRT
-This repository provides the **SemanticRT dataset** and **ECM code** for multispectral semantic segmentation.
+This repository provides the **SemanticRT dataset** and **ECM code** for multispectral semantic segmentation. The repository is structured as follows.
+
+1. [Task Introduction](#overall)
+2. [SemanticRT Dataset](#SemanticRT)
+3. [ECM Source Code](#ECM)
+
+------
+
+------
 
 ![avatar](https://github.com/jiwei0921/SemanticRT/blob/main/intro.png)  
 
@@ -7,18 +15,15 @@ This repository provides the **SemanticRT dataset** and **ECM code** for multisp
 
 ------
 
-## Content:
-
-1. [An overview of the Paper List](#overall)
-2. [2D RGB Saliency Detection](#2DSOD)
-
-------
 
 <a name="overall"></a>   
-# Overall 
+# Task Introduction 
 
-<a name="2DSOD"></a> 
-# 2D RG
+<a name="SemanticRT"></a> 
+# SemanticRT Dataset
+
+<a name="ECM"></a> 
+# ECM Source Code
 
 Coming Soon!
 
