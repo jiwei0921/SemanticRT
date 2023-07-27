@@ -8,7 +8,7 @@ This repository provides the **SemanticRT dataset** and **ECM code** for multisp
 ------
 
    
-## <a name="Introduction"></a>Task Introduction 
+## <a name="Introduction"></a>:book: Task Introduction 
 
 ![avatar](https://github.com/jiwei0921/SemanticRT/blob/main/intro.png)  
 
@@ -17,7 +17,7 @@ This repository provides the **SemanticRT dataset** and **ECM code** for multisp
 ------
 
 <a name="SemanticRT"></a> 
-## <a name="SemanticRT"></a>SemanticRT Dataset
+## <a name="SemanticRT"></a>:notebook_with_decorative_cover: SemanticRT Dataset
 
 SemanticRT dataset - the largest MSS dataset to date, comprises 11,371 high-quality, pixel-level annotated RGB-thermal image pairs. It covers a wide range of challenging scenarios in adverse lighting conditions such as low-light and pitch black, as displayed in the figure below.
 
@@ -77,7 +77,7 @@ Our SemanticRT dataset is mainly based on [LLVIP](https://github.com/bupt-ai-cz/
 ------
 
 
-## <a name="ECM—Code"></a>ECM Source Code
+## <a name="ECM—Code"></a>:green_book: ECM Source Code
 
 ### Installation
 
