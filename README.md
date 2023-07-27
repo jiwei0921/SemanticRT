@@ -27,7 +27,7 @@ SemanticRT dataset - the largest MSS dataset to date, comprises 11,371 high-qual
 
 + **Dataset Access**
 
-Download the SemanticRT dataset (Google Drive), which is structured as follows:
+Download the SemanticRT dataset ([Google Drive](https://drive.google.com/file/d/1kUicswUsQsxdT2jfYEST20BHY5bWGSpR/view?usp=sharing)), which is structured as follows:
 
 ```
 SemanticRT_dataset/
