@@ -1,14 +1,14 @@
 # SemanticRT
 This repository provides the **SemanticRT dataset** and **ECM code** for multispectral semantic segmentation (MSS). The repository is structured as follows.
 
-1. [Task Introduction](#overall)
+1. [Task Introduction](#Introduction)
 2. [SemanticRT Dataset](#SemanticRT)
-3. [ECM Source Code](#ECM)
+3. [ECM Source Code](#ECM—Code)
 
 ------
 
-<a name="overall"></a>   
-## Task Introduction 
+   
+## <a name="Introduction"></a>Task Introduction 
 
 ![avatar](https://github.com/jiwei0921/SemanticRT/blob/main/intro.png)  
 
@@ -17,7 +17,7 @@ This repository provides the **SemanticRT dataset** and **ECM code** for multisp
 ------
 
 <a name="SemanticRT"></a> 
-## SemanticRT Dataset
+## <a name="SemanticRT"></a>SemanticRT Dataset
 
 SemanticRT dataset - the largest MSS dataset to date, comprises 11,371 high-quality, pixel-level annotated RGB-thermal image pairs. It covers a wide range of challenging scenarios in adverse lighting conditions such as low-light and pitch black, as displayed in the figure below.
 
@@ -76,8 +76,8 @@ Our SemanticRT dataset is mainly based on LLVIP as well as other RGBT sources (O
 
 ------
 
-<a name="ECM"></a> 
-## ECM Source Code
+
+## <a name="ECM—Code"></a>ECM Source Code
 
 
 Coming Soon!
