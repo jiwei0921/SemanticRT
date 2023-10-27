@@ -129,7 +129,7 @@ This code repository was originally built from [EGFNet](https://github.com/shaoh
       author    = {Ji, Wei and Li, Jingjing and Bian, Cheng and Zhang, Zhicheng and Cheng, Li},
       booktitle = {Proceedings of the 31th ACM International Conference on Multimedia},
       year      = {2023},
-      pages = {3307–3316}
+      pages     = {3307–3316}
 }
 ```
 
