@@ -1,4 +1,5 @@
-# SemanticRT
+# [SemanticRT](https://dl.acm.org/doi/10.1145/3581783.3611738)
+
 This repository provides the **SemanticRT dataset** and **ECM code** for multispectral semantic segmentation (MSS). The repository is structured as follows.
 
 1. [Task Introduction](#Introduction)
