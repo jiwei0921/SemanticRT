@@ -127,8 +127,8 @@ This code repository was originally built from [EGFNet](https://github.com/shaoh
       title     = {SemanticRT: A Large-Scale Dataset and Method for Robust Semantic Segmentation in Multispectral Images},
       author    = {Ji, Wei and Li, Jingjing and Bian, Cheng and Zhang, Zhicheng and Cheng, Li},
       booktitle = {Proceedings of the 31th ACM International Conference on Multimedia},
-      month     = {October},
-      year      = {2023}
+      year      = {2023},
+      pages = {3307–3316}
 }
 ```
 
